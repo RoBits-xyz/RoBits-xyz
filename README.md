@@ -5,7 +5,7 @@
 
 
 <h3 align="justify"> </h3>
-RoBits_xyz is a collection of 10,000 unique ASCII art robots that exists on the Ethereum blockchain. Each robot is a unique digital asset that is owned by a specific Ethereum address
+RoBits_xyz is a collection of 9.999 unique ASCII art robots that exists on the Ethereum blockchain. Each robot is a unique digital asset that is owned by a specific Ethereum address
 
 <p align="center">
 <img width="15%" src="https://github.com/RoBits-xyz/RoBits-xyz/blob/main/robits_logo_github_readme.svg" />
